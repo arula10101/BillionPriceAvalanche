@@ -1,4 +1,3 @@
-# BillionPriceAvalanche
 Repricing Avalanches in the Billion Price data by Leal, Mateen, Nirei, Scheinkman (2021)
 
 Instructions:
